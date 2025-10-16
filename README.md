@@ -12,7 +12,6 @@ This project provides insights into hotel booking data — including occupancy t
 - Power BI  
 - Excel  
 - DAX  
-- SQL  
 
 ## 📊 Goal
 To help hotel management understand booking trends and optimize operations for higher profitability.
