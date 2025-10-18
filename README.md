@@ -1,6 +1,6 @@
 # 🏨 Booking Analysis Power BI Dashboard
 
-This project provides insights into hotel booking data — including occupancy trends, cancellations, revenue analysis, and customer behavior patterns.
+This project provides insights into hotel booking data — including occupancy trends, cancellations, revenue analysis, and customer behavior pattern.
 
 ## 🔹 Key Features
 - Room Type & Meal Plan Analysis  
